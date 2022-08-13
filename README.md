@@ -3,8 +3,8 @@
 ### AWS Cloud Technical Bootcamp Participant at VBO | Machine Learning Summer Camp at Miuul
 <br />
 
-> I'm Hatice, :woman_technologist: <br>
-I am a 4th year computer engineering student. I am interested in Data Analytics field. I have successfully completed the Miuul Summer Camp and have knowledge of Python Programming for Science, Feature Engineering, Machine Learning. At the same time, I am learning the AWS system and trying to improve myself in the field of cloud systems.
+> I'm Hatice, 👩‍💻
+I am a 4th year computer engineering student. I am interested in the field of Data Analytics. I have successfully completed Miuul Summer Camp and have knowledge of <strong> Python Programming for Science, Feature Engineering, Machine Learning <strong>. At the same time, I am learning the AWS system and trying to improve myself in the field of cloud systems. <strong> Linux ,Network ,Amazon Web Services </strong> in My Skills
 <br />
 
 
