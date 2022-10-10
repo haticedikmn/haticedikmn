@@ -28,9 +28,12 @@ I am a 4th year computer engineering student. I am interested in the field of Da
 <br />
 <br />
 
-## Latest medium posts :books:
+## Latest posts :books:
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS EC2 Üzerinde Instance Oluşturma](https://miuul.com/not-defteri/aws-ec2-uzerinde-instance-olusturma)
+- [AWS Üzerinde VPC Oluşturma](https://miuul.com/not-defteri/aws-vpc-olusturma)
+- [AWS'e Dair Temel Kavramlar](https://miuul.com/not-defteri/awse-dair-temel-kavramlar)
 - [Linux’un Sınırlarını Aşmak](https://medium.com/@haticedikmen/linux%C4%B1n-s%C4%B1n%C4%B1rlar%C4%B1n%C4%B1-a%C5%9Fmak-bafad8306020)
 - [Network : Bilmemiz Gerekenler…](https://medium.com/@haticedikmen/network-bilmemiz-gerekenler-2fcb01990afd)
 - [Müşterilerinizi Yakından Tanıyın](https://medium.com/@haticedikmen/m%C3%BC%C5%9Fterilerinizi-yak%C4%B1ndan-tan%C4%B1y%C4%B1n-d2d4c2063717)
