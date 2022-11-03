@@ -29,7 +29,7 @@ I am a 4th year computer engineering student. I am interested in the field of Da
 
 ## Latest posts :books:
 
-<!-- BLOG-POST-LIST:START 
+<!-- BLOG-POST-LIST:START -->
 - [AWS VPC Peering](https://miuul.com/not-defteri/aws-vpc-peering)
 - [AWS Kimlik ve Erişim Yönetimi Kılavuzu](https://miuul.com/not-defteri/aws-kimlik-ve-erisim-yonetimi-kilavuzu)
 - [AWS EC2 Üzerinde Instance Oluşturma](https://miuul.com/not-defteri/aws-ec2-uzerinde-instance-olusturma)
