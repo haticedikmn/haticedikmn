@@ -30,6 +30,8 @@ I am a 4th year computer engineering student. I am interested in the field of Da
 ## Latest posts :books:
 
 <!-- BLOG-POST-LIST:START -->
+- [Huawei Cloud Database ve Security Hakkında…](https://medium.com/@haticedikmen/huawei-cloud-database-ve-security-hakk%C4%B1nda-9a5b3b1b5163)
+- [Huawei Cloud’a Genel Bakış](https://medium.com/@haticedikmen/huawei-clouda-genel-bak%C4%B1%C5%9F-15ea1f855b55)
 - [Huawei Cloud Computing Basic Nedir ?](https://medium.com/@haticedikmen/huawei-cloud-computing-basic-nedir-580bba77accb)
 - [AWS VPC Peering](https://miuul.com/not-defteri/aws-vpc-peering)
 - [AWS Kimlik ve Erişim Yönetimi Kılavuzu](https://miuul.com/not-defteri/aws-kimlik-ve-erisim-yonetimi-kilavuzu)
