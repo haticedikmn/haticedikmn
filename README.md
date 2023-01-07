@@ -30,6 +30,8 @@ I am a 4th year computer engineering student. I am interested in the field of Da
 ## Latest posts :books:
 
 <!-- BLOG-POST-LIST:START -->
+- [Basic Concepts of Huawei Cloud ...](https://developer.huaweicloud.com/intl/en-us/forum/topic/0251106867327655012)
+- [Huawei Cloud CDN Service](https://developer.huaweicloud.com/intl/en-us/forum/topic/0250105824331441003)
 - [Huawei Cloud Database ve Security Hakkında…](https://medium.com/@haticedikmen/huawei-cloud-database-ve-security-hakk%C4%B1nda-9a5b3b1b5163)
 - [Huawei Cloud’a Genel Bakış](https://medium.com/@haticedikmen/huawei-clouda-genel-bak%C4%B1%C5%9F-15ea1f855b55)
 - [Huawei Cloud Computing Basic Nedir ?](https://medium.com/@haticedikmen/huawei-cloud-computing-basic-nedir-580bba77accb)
