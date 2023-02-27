@@ -1,6 +1,6 @@
 #### Hi! Welcome to my Githup profile :sparkles:
 
-### AWS Cloud Technical Bootcamp Coordinator at VBO | Data Scientist
+### AWS Cloud Technical Bootcamp Coordinator at VBO
 
 > I'm Hatice, 👩‍💻
 I am a 4th year computer engineering student. I am interested in the field of Data Analytics. I have successfully completed Miuul Summer Camp and have knowledge of <strong> Python Programming for Science, Feature Engineering, Machine Learning <strong>. At the same time, I am learning the AWS system and trying to improve myself in the field of cloud systems. <br>
