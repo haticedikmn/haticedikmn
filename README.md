@@ -3,8 +3,16 @@
 ## Cloud Engineer at SabancıDx
 
 > I'm Hatice, 👩‍💻
-I am a 4th year computer engineering student. I am interested in the field of Data Analytics. I have successfully completed Miuul Summer Camp and have knowledge of <strong> Python Programming for Science, Feature Engineering, Machine Learning <strong>. At the same time, I am learning the AWS system and trying to improve myself in the field of cloud systems. <br>
-<strong> Linux ,Network ,Amazon Web Services </strong> in My Skills
+Hello, I'm Hatice,
+
+I started my career by learning AWS cloud technologies and gained experience with Huawei Cloud technologies. Currently, I am expanding my knowledge by concentrating on Microsoft Azure. I am also interested in DevOps and I am constantly improving myself in this field.
+
+With a commitment to continuous learning and improvement, I stay up to date on the latest Cloud technologies and security practices for best possible solutions.
+
+In addition to improving myself, I also take care to produce content. I share what I have learned by writing articles on Medium and producing content on my YouTube channel. I love sharing knowledge and experience through these platforms.
+
+I would be happy to connect and share our experiences. <br>
+<strong> Linux ,Network ,Amazon Web Services, Azure, DevOps </strong> in My Skills
 <br />
 
 
